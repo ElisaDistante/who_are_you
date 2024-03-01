@@ -1,10 +1,10 @@
 {
     "name": "Who Are You",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "Double-personality plugin 🐱 🐛. You can decide to talk to the Cheshire Cat or to the Caterpillar, who really wants to know 'Who are you?' The plugin allows you to provide details about your identity and preferences in the settings. ",
     "author_name": "Elisa Distante",
     "author_url": "https://www.linkedin.com/in/elisa-distante-a25430158/",
     "plugin_url": "https://github.com/ElisaDistante/who_are_you",
     "tags": "personalization, identity, name",
-    "thumb": "https://raw.githubusercontent.com/ElisaDistante/main/who_are_you_logo.jpg"
+    "thumb": "https://raw.githubusercontent.com/ElisaDistante/who_are_you/main/who_are_you_logo.jpg"
 }
